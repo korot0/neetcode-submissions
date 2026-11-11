@@ -21,4 +21,4 @@ class Solution:
         return res
 
 # Look into from collections import Counter. Basically a dictionary without the manual counting
-# There is heappushpoop which could've been used to only keep < k elements in the list
+# There is heappushpop which could've been used to only keep < k elements in the list
